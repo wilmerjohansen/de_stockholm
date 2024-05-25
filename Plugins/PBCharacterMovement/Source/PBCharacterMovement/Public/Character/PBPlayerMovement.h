@@ -227,7 +227,6 @@ private:
 
 	class UPBMoveStepSound* GetMoveStepSoundBySurface(EPhysicalSurface SurfaceType) const;
 
-
 	virtual void PlayJumpSound(const FHitResult& Hit, bool bJumped);
 
 	float DefaultStepHeight;
